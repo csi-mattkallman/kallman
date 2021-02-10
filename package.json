@@ -1,0 +1,7 @@
+{
+    "name":"kallman",
+    "version":"1.0.0",
+    "bin": {
+        "kallman":"index.js"
+    }
+}
