@@ -1,4 +1,9 @@
 #!/usr/bin/env node
+const clearConsole = require('clear-any-console');
+ 
+// Clears the console.
+clearConsole();
+
 console.log(`Matt Kallman
 
 Matt is a Software Business Professional based in Grand Rapids, Michigan, US.  

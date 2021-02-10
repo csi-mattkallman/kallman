@@ -1,7 +1,10 @@
 {
-    "name":"kallman",
-    "version":"1.0.0",
+    "name": "@mattkallman/kallman",
+    "version": "1.0.0",
     "bin": {
-        "kallman":"index.js"
+        "kallman": "index.js"
+    },
+    "dependencies": {
+        "clear-any-console": "^1.16.2"
     }
 }
